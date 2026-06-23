@@ -1,0 +1,2 @@
+Model,Threshold,Accuracy,Precision,Recall,F1 Score,F2 Score,ROC-AUC,True Negatives,False Positives,False Negatives,True Positives
+Tuned Random Forest - Operating Threshold,0.37,0.365,0.18840579710144928,0.6341463414634146,0.2905027932960894,0.4304635761589404,0.4825893541954287,47,112,15,26

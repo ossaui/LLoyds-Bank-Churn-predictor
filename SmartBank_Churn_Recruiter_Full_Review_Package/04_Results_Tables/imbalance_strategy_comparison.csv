@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC,True Negatives,False Positives,False Negatives,True Positives
+RF - No Balancing,0.795,0.0,0.0,0.0,0.501533977603927,159,0,41,0
+RF - Class Weight,0.795,0.0,0.0,0.0,0.5216290842153706,159,0,41,0
+RF - SMOTE,0.77,0.2222222222222222,0.04878048780487805,0.08,0.4431661297745053,152,7,39,2

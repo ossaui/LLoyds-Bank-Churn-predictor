@@ -1,0 +1,4 @@
+interface:
+  display_name: "Effective Machine Learning"
+  short_description: "Practical ML workflow for reliable modeling"
+  default_prompt: "Use $effective-machine-learning to build, evaluate, tune, and explain a practical machine learning model."
